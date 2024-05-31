@@ -66,17 +66,6 @@ The Food Delivery Web App is a React-based application designed to provide a sea
     npm install
     ```
 
-### Configuration
-
-1. Set up environment variables:
-    - Create a `.env` file in the `backend` directory and add the following:
-        ```env
-        PORT=5000
-        MONGODB_URI=your_mongodb_uri
-        JWT_SECRET=your_jwt_secret
-        STRIPE_SECRET_KEY=your_stripe_secret_key
-        PAYPAL_CLIENT_ID=your_paypal_client_id
-        ```
 
 
 ## Future Enhancements
