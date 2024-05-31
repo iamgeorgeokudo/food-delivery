@@ -88,7 +88,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgements
 - Thanks to the open-source community for providing the tools and libraries that made this project possible.
 
-## Contact
-For any inquiries or questions, please contact [Your Name] at [your.email@example.com].
 
 
